@@ -1,1 +1,3 @@
 # fx-rates-service
+
+some sample playground...
